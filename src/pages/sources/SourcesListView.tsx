@@ -168,7 +168,7 @@ const SourcesListView: React.FunctionComponent = () => {
     initialFilterValues: filters ? JSON.parse(filters) : undefined
   });
 
-  const token = "1b9cbee46c9fce0174900b8b85f53d3d26d7180e";
+  const token = "";
 
   const {
     filterState: { filterValues },
